@@ -68,10 +68,10 @@
 
         symbol {
             bindings = <
-&trans  &trans                  &trans                  &kp GRAVE                 &kp N0                 &trans    &trans        &kp MINUS      &kp EQUAL            &kp BACKSLASH      &trans             &trans
-&trans  &hml LEFT_GUI NUMBER_1  &hml LEFT_ALT NUMBER_2  &hml LEFT_SHIFT NUMBER_3  &hml LCTRL NUMBER_4    &kp N5    &kp NUMBER_6  &hmr RCTRL N7  &hmr RIGHT_SHIFT N8  &hmr RIGHT_ALT N8  &hmr RIGHT_GUI N9  &kp N0
-&trans  &trans                  &trans                  &kp LEFT_PARENTHESIS      &kp RIGHT_PARENTHESIS  &trans    &trans        &kp LBKT       &kp RBKT             &kp SQT            &kp SLASH          &trans
-                                                        &trans                    &trans                 &trans    &trans        &trans         &trans
+&trans  &trans                    &trans                  &kp GRAVE               &kp N0                 &trans    &trans        &kp MINUS      &kp EQUAL          &kp BACKSLASH      &trans               &trans
+&trans  &hml LEFT_SHIFT NUMBER_1  &hml LEFT_ALT NUMBER_2  &hml LEFT_GUI NUMBER_3  &hml LCTRL NUMBER_4    &kp N5    &kp NUMBER_6  &hmr RCTRL N7  &hmr RIGHT_GUI N8  &hmr RIGHT_ALT N8  &hmr RIGHT_SHIFT N9  &kp N0
+&trans  &trans                    &trans                  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &trans    &trans        &kp LBKT       &kp RBKT           &kp SQT            &kp SLASH            &trans
+                                                          &trans                  &trans                 &trans    &trans        &trans         &trans
             >;
         };
 
