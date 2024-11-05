@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: nice-view-bongo-cat
       remote: danielsodium
-      revision: catgirl
+      revision: sister
   self:
     path: config
